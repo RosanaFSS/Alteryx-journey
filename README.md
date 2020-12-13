@@ -1,5 +1,5 @@
 # Data-analysis-with-alteryx
-Data analysis executed by me based on the free course | Creating an Analytical Dataset | by alteryx
+Data analysis and wer scraping executed by me based on the free course | Creating an Analytical Dataset | by alteryx
 
 Day 03 #60daysofUdacity
 
