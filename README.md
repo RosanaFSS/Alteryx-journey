@@ -6,4 +6,20 @@ available at https://www.udacity.com/course/creating-an-analytical-dataset--ud97
 
 #60daysofUdacity
 
+Lesson 01
+Understanding Data
+Understant the most common data types. Understand the various sources of data.
+
+Lesson 02
+Data issues
+Identify commom types od dirty data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers.
+
+Lesson 03
+Data Formatting
+Summarize, cross tabulate, transpose, and reformat data to prepare a dataset for analysis.
+
+Lesson 04
+Data Blending
+Join and union from different sources and formats.
+
 __________________________________________
