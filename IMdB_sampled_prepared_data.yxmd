@@ -1,0 +1,729 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>movies-metadata (1).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="adult" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="belongs_to_collection" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="budget" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="genres" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="homepage" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="id" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="imdb_id" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="original_language" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="original_title" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="overview" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="popularity" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="poster_path" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="production_companies" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="production_countries" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="release_date" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="revenue" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="runtime" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="spoken_languages" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="status" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="tagline" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="title" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="video" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="vote_average" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+            <Field name="vote_count" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\movies-metadata (1).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="222" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>genres</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>
+          </RootName>
+          <Delimeters value="," />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="282" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>2</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>2</RootName>
+          <Delimeters value=":" />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings>
+        <Position x="1110" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">True</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Genre 1","Genre 2","Genre 3"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="126" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="342" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>3</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>3</RootName>
+          <Delimeters value="," />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="402" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>32</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>32</RootName>
+          <Delimeters value=":" />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="594" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="ReplaceChar([22], '}', '')" field="[22]" size="1073741823" type="V_WString" />
+            <FormulaField expression="ReplaceChar([22],'}]','')" field="22" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([322], '}', '')" field="322" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([322], '}]', '')" field="322" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([3322], '}', '')" field="3322" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([3322], '}]', '')" field="3322" size="254" type="V_String" />
+            <FormulaField expression="DateTimeYear([release_date])" field="Year" size="1073741823" type="V_WString" />
+            <FormulaField expression="DateTimeMonth([release_date])" field="Month" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[22] = ReplaceChar([22], '}', '')
+22 = ReplaceChar([22],'}]','')
+322 = ReplaceCh...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="462" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>33</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>33</RootName>
+          <Delimeters value="," />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="522" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>332</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>332</RootName>
+          <Delimeters value=":" />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings>
+        <Position x="1206" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="CountRecords.yxmc" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="666" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="RecordID" selected="True" />
+            <SelectField field="budget" selected="True" />
+            <SelectField field="genres" selected="True" />
+            <SelectField field="id" selected="True" />
+            <SelectField field="original_title" selected="True" />
+            <SelectField field="popularity" selected="True" />
+            <SelectField field="release_date" selected="True" />
+            <SelectField field="revenue" selected="True" />
+            <SelectField field="runtime" selected="True" />
+            <SelectField field="video" selected="True" />
+            <SelectField field="vote_average" selected="True" />
+            <SelectField field="vote_count" selected="True" />
+            <SelectField field="22" selected="True" rename="Genre 1" />
+            <SelectField field="322" selected="True" rename="Genre 2" />
+            <SelectField field="3322" selected="True" rename="Genre 3" />
+            <SelectField field="Year" selected="True" />
+            <SelectField field="Month" selected="True" />
+            <SelectField field="Genero 1" selected="True" />
+            <SelectField field="Genero 2" selected="True" />
+            <SelectField field="Genero 3" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1218" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="RecordID" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="RecordID" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_RecordID" selected="True" input="Left_" />
+                <SelectField field="Left_budget" selected="False" input="Left_" />
+                <SelectField field="Left_genres" selected="False" input="Left_" />
+                <SelectField field="Left_id" selected="False" input="Left_" />
+                <SelectField field="Left_original_title" selected="False" input="Left_" />
+                <SelectField field="Left_popularity" selected="False" input="Left_" />
+                <SelectField field="Left_release_date" selected="False" input="Left_" />
+                <SelectField field="Left_revenue" selected="False" input="Left_" />
+                <SelectField field="Left_runtime" selected="False" input="Left_" />
+                <SelectField field="Left_video" selected="False" input="Left_" />
+                <SelectField field="Left_vote_average" selected="False" input="Left_" />
+                <SelectField field="Left_vote_count" selected="False" input="Left_" />
+                <SelectField field="Left_1" selected="False" input="Left_" />
+                <SelectField field="Left_2" selected="False" input="Left_" />
+                <SelectField field="Left_3" selected="False" input="Left_" />
+                <SelectField field="Left_21" selected="False" input="Left_" />
+                <SelectField field="Right_title" selected="True" input="Right_" />
+                <SelectField field="Right_original_title" selected="False" rename="Right_original_title" input="Right_" />
+                <SelectField field="Right_genres" selected="False" rename="Right_genres" input="Right_" />
+                <SelectField field="Left_31" selected="False" input="Left_" />
+                <SelectField field="Left_32" selected="False" input="Left_" />
+                <SelectField field="Left_33" selected="False" input="Left_" />
+                <SelectField field="Left_321" selected="False" input="Left_" />
+                <SelectField field="Right_release_date" selected="False" rename="Right_release_date" input="Right_" />
+                <SelectField field="Left_Year" selected="True" input="Left_" />
+                <SelectField field="Left_Month" selected="True" input="Left_" />
+                <SelectField field="Left_Genre 1" selected="True" input="Left_" />
+                <SelectField field="Left_Genre 2" selected="True" input="Left_" />
+                <SelectField field="Left_331" selected="False" input="Left_" />
+                <SelectField field="Left_332" selected="False" input="Left_" />
+                <SelectField field="Left_3321" selected="False" input="Left_" />
+                <SelectField field="Left_Genre 3" selected="True" input="Left_" />
+                <SelectField field="Right_RecordID" selected="False" rename="Right_RecordID" input="Right_" />
+                <SelectField field="Right_adult" selected="False" input="Right_" />
+                <SelectField field="Right_belongs_to_collection" selected="False" input="Right_" />
+                <SelectField field="Right_budget" selected="True" rename="Right_budget" input="Right_" />
+                <SelectField field="Right_popularity" selected="True" rename="Right_popularity" input="Right_" />
+                <SelectField field="Right_runtime" selected="True" rename="Right_runtime" input="Right_" />
+                <SelectField field="Right_revenue" selected="True" rename="Right_revenue" input="Right_" />
+                <SelectField field="Right_vote_average" selected="True" rename="Right_vote_average" input="Right_" />
+                <SelectField field="Right_vote_count" selected="True" rename="Right_vote_count" input="Right_" />
+                <SelectField field="Right_overview" selected="False" input="Right_" />
+                <SelectField field="Right_homepage" selected="False" input="Right_" />
+                <SelectField field="Right_id" selected="False" rename="Right_id" input="Right_" />
+                <SelectField field="Right_imdb_id" selected="False" input="Right_" />
+                <SelectField field="Right_original_language" selected="False" input="Right_" />
+                <SelectField field="Right_poster_path" selected="False" input="Right_" />
+                <SelectField field="Right_production_companies" selected="False" input="Right_" />
+                <SelectField field="Right_production_countries" selected="False" input="Right_" />
+                <SelectField field="Right_spoken_languages" selected="False" input="Right_" />
+                <SelectField field="Right_status" selected="False" input="Right_" />
+                <SelectField field="Right_tagline" selected="False" input="Right_" />
+                <SelectField field="Right_video" selected="False" rename="Right_video" input="Right_" />
+                <SelectField field="Left_Genero 1" selected="False" input="Left_" />
+                <SelectField field="Left_Genero 2" selected="False" input="Left_" />
+                <SelectField field="Left_Genero 3" selected="False" input="Left_" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="750" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotEmpty</Operator>
+            <Field>release_date</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2021-02-23 21:48:31</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2021-02-23 21:48:31</StartDate>
+              <EndDate>2021-02-23 21:48:31</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsEmpty([release_date])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="846" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotEmpty</Operator>
+            <Field>original_title</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2021-02-23 21:50:02</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2021-02-23 21:50:02</StartDate>
+              <EndDate>2021-02-23 21:50:02</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsEmpty([original_title])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="930" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotEmpty</Operator>
+            <Field>popularity</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2021-02-23 21:51:31</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2021-02-23 21:51:31</StartDate>
+              <EndDate>2021-02-23 21:51:31</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsEmpty([popularity])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1014" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotEmpty</Operator>
+            <Field>vote_count</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2021-02-23 21:53:02</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2021-02-23 21:53:02</StartDate>
+              <EndDate>2021-02-23 21:53:02</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsEmpty([vote_count])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings>
+        <Position x="126" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="CountRecords.yxmc" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1314" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="title" selected="True" rename="Title" />
+            <SelectField field="Genre 1" selected="True" rename="Genre_A" />
+            <SelectField field="Genre 2" selected="True" rename="Genre_B" />
+            <SelectField field="Genre 3" selected="True" rename="Genre_C" />
+            <SelectField field="Right_budget" selected="True" rename="Budget" />
+            <SelectField field="Right_popularity" selected="True" rename="Popularity" />
+            <SelectField field="Right_runtime" selected="True" rename="Runtime" />
+            <SelectField field="Right_revenue" selected="True" rename="Revenue" />
+            <SelectField field="Right_vote_average" selected="True" rename="Vote_average" />
+            <SelectField field="Right_vote_count" selected="True" rename="Vote_count" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1398" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 04, Data Storytelling\Project, Build a Data Story Final Project\Work at Feb 22nd\IMdB_sampled_prepared_data.xlsx|||Sheet1</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IMdB_sampled_prepared_data.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="33" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output26" />
+      <Destination ToolID="20" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output26" />
+      <Destination ToolID="27" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="27" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Join" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="True" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="True" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="True" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="True" />
+      <Destination ToolID="5" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>IMdB_sampled_prepared_data</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
